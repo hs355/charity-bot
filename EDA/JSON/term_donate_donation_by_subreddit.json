@@ -1,0 +1,407 @@
+{
+    "aggs": {
+        "subreddit": [
+            {
+                "doc_count": 287748,
+                "key": "AskReddit"
+            },
+            {
+                "doc_count": 205255,
+                "key": "politics"
+            },
+            {
+                "doc_count": 158791,
+                "key": "millionairemakers"
+            },
+            {
+                "doc_count": 120515,
+                "key": "YangForPresidentHQ"
+            },
+            {
+                "doc_count": 96268,
+                "key": "SandersForPresident"
+            },
+            {
+                "doc_count": 67200,
+                "key": "worldnews"
+            },
+            {
+                "doc_count": 62242,
+                "key": "news"
+            },
+            {
+                "doc_count": 60519,
+                "key": "pics"
+            },
+            {
+                "doc_count": 52653,
+                "key": "The_Donald"
+            },
+            {
+                "doc_count": 49681,
+                "key": "todayilearned"
+            },
+            {
+                "doc_count": 41859,
+                "key": "HITsWorthTurkingFor"
+            },
+            {
+                "doc_count": 40637,
+                "key": "atheism"
+            },
+            {
+                "doc_count": 32798,
+                "key": "AmItheAsshole"
+            },
+            {
+                "doc_count": 32232,
+                "key": "videos"
+            },
+            {
+                "doc_count": 31681,
+                "key": "ClashOfClansRecruit"
+            },
+            {
+                "doc_count": 29771,
+                "key": "AdviceAnimals"
+            },
+            {
+                "doc_count": 29448,
+                "key": "IAmA"
+            },
+            {
+                "doc_count": 28649,
+                "key": "leagueoflegends"
+            },
+            {
+                "doc_count": 27143,
+                "key": "gaming"
+            },
+            {
+                "doc_count": 26693,
+                "key": "ChapoTrapHouse"
+            },
+            {
+                "doc_count": 25484,
+                "key": "Bitcoin"
+            },
+            {
+                "doc_count": 25231,
+                "key": "nfl"
+            },
+            {
+                "doc_count": 24611,
+                "key": "funny"
+            },
+            {
+                "doc_count": 21672,
+                "key": "changemyview"
+            },
+            {
+                "doc_count": 20701,
+                "key": "unpopularopinion"
+            },
+            {
+                "doc_count": 20279,
+                "key": "technology"
+            },
+            {
+                "doc_count": 20214,
+                "key": "ClashOfClans"
+            },
+            {
+                "doc_count": 18109,
+                "key": "LivestreamFail"
+            },
+            {
+                "doc_count": 18077,
+                "key": "UpliftingNews"
+            },
+            {
+                "doc_count": 17816,
+                "key": "Ice_Poseidon"
+            },
+            {
+                "doc_count": 17565,
+                "key": "me_irl"
+            },
+            {
+                "doc_count": 17561,
+                "key": "canada"
+            },
+            {
+                "doc_count": 16868,
+                "key": "Libertarian"
+            },
+            {
+                "doc_count": 16776,
+                "key": "OurPresident"
+            },
+            {
+                "doc_count": 15970,
+                "key": "australia"
+            },
+            {
+                "doc_count": 15868,
+                "key": "hockey"
+            },
+            {
+                "doc_count": 15431,
+                "key": "dogecoin"
+            },
+            {
+                "doc_count": 15255,
+                "key": "personalfinance"
+            },
+            {
+                "doc_count": 14798,
+                "key": "TwoXChromosomes"
+            },
+            {
+                "doc_count": 14600,
+                "key": "Twitch"
+            },
+            {
+                "doc_count": 14576,
+                "key": "BernieSanders"
+            },
+            {
+                "doc_count": 14503,
+                "key": "WTF"
+            },
+            {
+                "doc_count": 14500,
+                "key": "SquaredCircle"
+            },
+            {
+                "doc_count": 14254,
+                "key": "Makefile_dot_in_user"
+            },
+            {
+                "doc_count": 13697,
+                "key": "ClashRoyale"
+            },
+            {
+                "doc_count": 13097,
+                "key": "rarepuppers"
+            },
+            {
+                "doc_count": 12628,
+                "key": "Showerthoughts"
+            },
+            {
+                "doc_count": 12334,
+                "key": "ChoosingBeggars"
+            },
+            {
+                "doc_count": 12296,
+                "key": "nba"
+            },
+            {
+                "doc_count": 12291,
+                "key": "india"
+            },
+            {
+                "doc_count": 12113,
+                "key": "DotA2"
+            },
+            {
+                "doc_count": 11714,
+                "key": "relationships"
+            },
+            {
+                "doc_count": 11657,
+                "key": "exmormon"
+            },
+            {
+                "doc_count": 11624,
+                "key": "pcmasterrace"
+            },
+            {
+                "doc_count": 11386,
+                "key": "AnimalCrossing"
+            },
+            {
+                "doc_count": 11337,
+                "key": "CFB"
+            },
+            {
+                "doc_count": 11211,
+                "key": "Christianity"
+            },
+            {
+                "doc_count": 10629,
+                "key": "Games"
+            },
+            {
+                "doc_count": 10547,
+                "key": "explainlikeimfive"
+            },
+            {
+                "doc_count": 10447,
+                "key": "NoStupidQuestions"
+            },
+            {
+                "doc_count": 10409,
+                "key": "reddit.com"
+            },
+            {
+                "doc_count": 10347,
+                "key": "conspiracy"
+            },
+            {
+                "doc_count": 10268,
+                "key": "BlackPeopleTwitter"
+            },
+            {
+                "doc_count": 9904,
+                "key": "Coronavirus"
+            },
+            {
+                "doc_count": 9412,
+                "key": "childfree"
+            },
+            {
+                "doc_count": 9367,
+                "key": "DestinyTheGame"
+            },
+            {
+                "doc_count": 9258,
+                "key": "LifeProTips"
+            },
+            {
+                "doc_count": 9193,
+                "key": "neoliberal"
+            },
+            {
+                "doc_count": 9135,
+                "key": "PoliticalDiscussion"
+            },
+            {
+                "doc_count": 9027,
+                "key": "memes"
+            },
+            {
+                "doc_count": 8758,
+                "key": "unitedkingdom"
+            },
+            {
+                "doc_count": 8727,
+                "key": "MarvelStrikeForce"
+            },
+            {
+                "doc_count": 8678,
+                "key": "KotakuInAction"
+            },
+            {
+                "doc_count": 8677,
+                "key": "declutter"
+            },
+            {
+                "doc_count": 8604,
+                "key": "Frugal"
+            },
+            {
+                "doc_count": 8507,
+                "key": "soccer"
+            },
+            {
+                "doc_count": 8497,
+                "key": "stupidpol"
+            },
+            {
+                "doc_count": 8412,
+                "key": "Beto2020"
+            },
+            {
+                "doc_count": 8295,
+                "key": "HumansBeingBros"
+            },
+            {
+                "doc_count": 8149,
+                "key": "2007scape"
+            },
+            {
+                "doc_count": 8039,
+                "key": "AskWomen"
+            },
+            {
+                "doc_count": 7941,
+                "key": "WayOfTheBern"
+            },
+            {
+                "doc_count": 7901,
+                "key": "minimalism"
+            },
+            {
+                "doc_count": 7850,
+                "key": "ukpolitics"
+            },
+            {
+                "doc_count": 7679,
+                "key": "PoliticalHumor"
+            },
+            {
+                "doc_count": 7622,
+                "key": "JUSTNOMIL"
+            },
+            {
+                "doc_count": 7516,
+                "key": "books"
+            },
+            {
+                "doc_count": 7376,
+                "key": "GlobalOffensive"
+            },
+            {
+                "doc_count": 7305,
+                "key": "vegan"
+            },
+            {
+                "doc_count": 7266,
+                "key": "Assistance"
+            },
+            {
+                "doc_count": 7216,
+                "key": "bindingofisaac"
+            },
+            {
+                "doc_count": 7216,
+                "key": "dankmemes"
+            },
+            {
+                "doc_count": 7213,
+                "key": "Pete_Buttigieg"
+            },
+            {
+                "doc_count": 7165,
+                "key": "aww"
+            },
+            {
+                "doc_count": 7086,
+                "key": "nottheonion"
+            },
+            {
+                "doc_count": 6889,
+                "key": "IOTAFaucet"
+            },
+            {
+                "doc_count": 6656,
+                "key": "BlueMidterm2018"
+            },
+            {
+                "doc_count": 6643,
+                "key": "Futurology"
+            },
+            {
+                "doc_count": 6603,
+                "key": "trees"
+            },
+            {
+                "doc_count": 6560,
+                "key": "teenagers"
+            }
+        ]
+    },
+    "data": []
+}
